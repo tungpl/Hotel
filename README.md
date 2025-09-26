@@ -48,5 +48,5 @@ mvn exec:java -Dexec.mainClass="com.example.hotel.HotelApplication"
 * Enhanced availability search
 
 ## License
-MIT (adjust as needed)
+TungPL
 
