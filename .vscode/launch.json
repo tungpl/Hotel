@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug HotelApplication",
+            "request": "launch",
+            "mainClass": "com.example.hotel.HotelApplication",
+            "projectName": "hotel",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen"
+        },
+        {
+            "type": "java",
+            "name": "Run HotelApplication",
+            "request": "launch",
+            "mainClass": "com.example.hotel.HotelApplication",
+            "projectName": "hotel",
+            "console": "integratedTerminal"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "application": {
+    "name": "Hotel Booking System",
+    "version": "1.0.0",
+    "environment": "development"
+  },
+  "database": {
+    "dataDirectory": "data",
+    "backupDirectory": "backups",
+    "reportDirectory": "reports",
+    "autoBackup": true,
+    "backupInterval": 60
+  },
+  "logging": {
+    "level": "INFO",
+    "logToFile": true,
+    "logFile": "hotel.log"
+  },
+  "features": {
+    "concurrentAccess": true,
+    "emailNotifications": false,
+    "reportGeneration": true
+  }
+}

@@ -1,0 +1,17 @@
+[ {
+  "id" : "R2",
+  "number" : "102",
+  "capacity" : 4
+}, {
+  "id" : "R3",
+  "number" : "201",
+  "capacity" : 1
+}, {
+  "id" : "R4",
+  "number" : "202",
+  "capacity" : 3
+}, {
+  "id" : "R1",
+  "number" : "101",
+  "capacity" : 2
+} ]

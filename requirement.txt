@@ -1,0 +1,65 @@
+==================================================
+Hotel Booking System – Requirements Document
+File Name: requirement.txt
+==================================================
+
+PROJECT STRUCTURE
+-----------------
+project-name/
+├── src/main/java/
+├── data/
+│   ├── entity1.json
+│   ├── entity2.json
+├── backups/
+├── reports/
+├── config.json
+├── README.md
+
+OBJECTIVES
+----------
+- Build a Java Core application using OOP principles, collections, file I/O, JSON persistence, and concurrency.
+- Application should run via CLI and persist data in JSON format.
+- Manage rooms, bookings, guests, and payments.
+
+REQUIREMENTS
+------------
+Core Features:
+- CRUD operations for all entities (rooms, bookings, guests, payments).
+- File read/write for data persistence.
+- Input validation and error handling.
+- Use of Java Collections and Generics.
+- Date/Time API for scheduling and tracking.
+- Stream API and Lambda expressions for data processing.
+- Logging and reporting functionality.
+- Basic concurrency (optional but encouraged).
+
+JSON Schema Example:
+{
+  "id": "E001",
+  "name": "Sample Entity",
+  "attributes": ["value1", "value2"],
+  "createdDate": "2024-04-01"
+}
+
+OPTIONAL ENHANCEMENTS
+---------------------
+- Add CLI menu with command options.
+- Implement search and sort features.
+- Generate reports based on filters.
+- Use thread-safe collections for shared data.
+- Backup and restore functionality.
+- External configuration retrieval from config.json.
+- Reporting with charts (JavaFX or other).
+- Email notifications (JavaMail API).
+- RESTful API with Jersey for core business rules.
+
+EVALUATION RUBRIC (100 Points)
+------------------------------
+- Functionality (CRUD, JSON I/O): 30 points
+- Basic concurrency: 10 points
+- Input validation and error handling: 10 points
+- Logging and reporting: 10 points
+- Code quality and structure: 10 points
+- Advanced features (Concurrency, Reports): 10 points
+- Code quality and documentation: 10 points
+==================================================

@@ -1,0 +1,10 @@
+# Build output
+auth/
+out/
+*.log
+*.iml
+.idea/
+.DS_Store
+# Temporary
+*.tmp
+

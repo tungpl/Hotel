@@ -1,0 +1,23 @@
+[ {
+  "fullName" : "John Doe",
+  "id" : "G1",
+  "firstName" : "John",
+  "lastName" : "Doe",
+  "email" : "john.doe@email.com",
+  "phone" : "5551234567",
+  "address" : null,
+  "dateOfBirth" : null,
+  "registrationDate" : "2025-09-25",
+  "vipStatus" : false
+}, {
+  "fullName" : "Jane Smith",
+  "id" : "G2",
+  "firstName" : "Jane",
+  "lastName" : "Smith",
+  "email" : "jane.smith@email.com",
+  "phone" : "5555678901",
+  "address" : null,
+  "dateOfBirth" : null,
+  "registrationDate" : "2025-09-25",
+  "vipStatus" : true
+} ]
