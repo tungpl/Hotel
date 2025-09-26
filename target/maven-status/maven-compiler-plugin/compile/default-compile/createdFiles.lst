@@ -1,5 +1,0 @@
-com/example/hotel/HotelApplication.class
-com/example/hotel/model/Reservation.class
-com/example/hotel/service/ReservationService.class
-com/example/hotel/service/ReservationConflictException.class
-com/example/hotel/model/Room.class

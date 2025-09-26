@@ -1,10 +1,18 @@
 # Build output
 auth/
 out/
+target/
 *.log
 *.iml
 .idea/
 .DS_Store
+
+# Java compiled classes
+*.class
+
+# Maven build artifacts
+target/
+
 # Temporary
 *.tmp
 
